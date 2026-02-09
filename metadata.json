@@ -1,0 +1,9 @@
+{
+  "name": "SurveySaksham",
+  "description": "AI-Powered Smart Survey Platform for National Statistics (MoSPI). Features multi-modal input, standardized question banks, and paradata analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
